@@ -1,6 +1,10 @@
 #Custom
 *.pdf
-.vs
+*.vs
+hello_network
+*.txt
+*.rar
+*.xls
 
 # Windows:
 Thumbs.db
